@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome To Employee Wage Computation Program");
+﻿namespace OOPsEmployeeWage{
+    class Program{
+        public static void Main(string[] args){
+            Attendance employee=new Attendance();
+            employee.CheckAttendance();
+        }
+    }
+}

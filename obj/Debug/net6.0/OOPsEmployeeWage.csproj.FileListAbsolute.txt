@@ -1,0 +1,15 @@
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/OOPsEmployeeWage
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/OOPsEmployeeWage.deps.json
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/OOPsEmployeeWage.runtimeconfig.json
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/OOPsEmployeeWage.dll
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/ref/OOPsEmployeeWage.dll
+/home/luser/pgming/OOPsEmployeeWage/bin/Debug/net6.0/OOPsEmployeeWage.pdb
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.csproj.AssemblyReference.cache
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.AssemblyInfoInputs.cache
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.AssemblyInfo.cs
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.csproj.CoreCompileInputs.cache
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.dll
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/ref/OOPsEmployeeWage.dll
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.pdb
+/home/luser/pgming/OOPsEmployeeWage/obj/Debug/net6.0/OOPsEmployeeWage.genruntimeconfig.cache
